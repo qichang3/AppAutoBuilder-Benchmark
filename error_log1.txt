@@ -1,5 +1,0 @@
-* What went wrong:
-Could not resolve all dependencies for configuration ':library:testCompile'.
-> Could not find com.android.support:support-v4:19.0.0.
-  Required by:
-      net.rdrei.android.dirchooser:library:1.2 > org.robolectric:robolectric:2.3-SNAPSHOT
