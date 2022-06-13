@@ -1,0 +1,3 @@
+* What went wrong:
+Execution failed for task ':jme3-core:updateVersionPropertiesFile'.
+> Could not find property 'jmeVersionTag' on task ':jme3-core:updateVersionPropertiesFile'.

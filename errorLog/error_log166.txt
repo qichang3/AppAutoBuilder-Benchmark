@@ -1,0 +1,6 @@
+co.paralleluniverse.strands.channels.ChannelTest > whenChannelOverflowsThrowException[7] SKIPPED
+Running test: test testBlockingChannelSendingFiber[7](co.paralleluniverse.strands.channels.ChannelTest)
+Running test: test testBlockingChannelSendingThread[7](co.paralleluniverse.strands.channels.ChannelTest)
+Running test: test testChannelClose[7](co.paralleluniverse.strands.channels.ChannelTest)
+No output has been received in the last 10 minutes, this potentially indicates a stalled build or something wrong with the build itself.
+The build has been terminated

@@ -1,0 +1,22 @@
+* What went wrong:
+A problem occurred configuring project ':it'.
+> Failed to notify project evaluation listener.
+   > Could not resolve all dependencies for configuration ':it:runtimeCopy'.
+      > A problem occurred configuring project ':tds'.
+         > Could not resolve all dependencies for configuration ':tds:runtimeCopy'.
+            > Could not find uk.ac.rdg.resc:ncwms:1.2.tds.4.6.1-SNAPSHOT.
+              Searched in the following locations:
+                  https://repo1.maven.org/maven2/uk/ac/rdg/resc/ncwms/1.2.tds.4.6.1-SNAPSHOT/maven-metadata.xml
+                  https://repo1.maven.org/maven2/uk/ac/rdg/resc/ncwms/1.2.tds.4.6.1-SNAPSHOT/ncwms-1.2.tds.4.6.1-SNAPSHOT.pom
+                  https://repo1.maven.org/maven2/uk/ac/rdg/resc/ncwms/1.2.tds.4.6.1-SNAPSHOT/ncwms-1.2.tds.4.6.1-SNAPSHOT.jar
+                  https://artifacts.unidata.ucar.edu/content/repositories/unidata/uk/ac/rdg/resc/ncwms/1.2.tds.4.6.1-SNAPSHOT/maven-metadata.xml
+                  https://artifacts.unidata.ucar.edu/content/repositories/unidata/uk/ac/rdg/resc/ncwms/1.2.tds.4.6.1-SNAPSHOT/ncwms-1.2.tds.4.6.1-SNAPSHOT.pom
+                  https://artifacts.unidata.ucar.edu/content/repositories/unidata/uk/ac/rdg/resc/ncwms/1.2.tds.4.6.1-SNAPSHOT/ncwms-1.2.tds.4.6.1-SNAPSHOT.jar
+                  https://artifacts.unidata.ucar.edu/content/repositories/unidata-3rdparty/uk/ac/rdg/resc/ncwms/1.2.tds.4.6.1-SNAPSHOT/maven-metadata.xml
+                  https://artifacts.unidata.ucar.edu/content/repositories/unidata-3rdparty/uk/ac/rdg/resc/ncwms/1.2.tds.4.6.1-SNAPSHOT/ncwms-1.2.tds.4.6.1-SNAPSHOT.pom
+                  https://artifacts.unidata.ucar.edu/content/repositories/unidata-3rdparty/uk/ac/rdg/resc/ncwms/1.2.tds.4.6.1-SNAPSHOT/ncwms-1.2.tds.4.6.1-SNAPSHOT.jar
+              Required by:
+                  edu.ucar:tds:4.6.1-SNAPSHOT
+   > Could not find method appBeforeIntegrationTest() for arguments [build_3uju4e1g7ct71wwh3vqgjdud2$_run_closure5_closure10@4e9d203e] on project ':it'.
+   > Could not find method appBeforeIntegrationTest() for arguments [build_3uju4e1g7ct71wwh3vqgjdud2$_run_closure5_closure10@4d10f182] on project ':it'.
+   > Could not find method appBeforeIntegrationTest() for arguments [build_3uju4e1g7ct71wwh3vqgjdud2$_run_closure5_closure10@5749e633] on project ':it'.

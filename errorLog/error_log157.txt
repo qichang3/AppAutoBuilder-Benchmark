@@ -1,0 +1,3 @@
+* What went wrong:
+java.io.FileNotFoundException: /home/travis/build/jMonkeyEngine/jmonkeyengine/jme3-core/src/main/resources/com/jme3/system/version.properties (No such file or directory)
+> /home/travis/build/jMonkeyEngine/jmonkeyengine/jme3-core/src/main/resources/com/jme3/system/version.properties (No such file or directory)

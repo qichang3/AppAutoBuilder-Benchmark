@@ -1,0 +1,5 @@
+> Building* What went wrong:
+> BuildingExecution failed for task ':signArchives'.
+> Building> 
+> BuildingCannot perform signing task ':signArchives' because it has no configured signatory
+> Building

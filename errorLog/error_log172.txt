@@ -1,0 +1,7 @@
+> Building > :moco-core:test > 8 tests completed, 1 failed    \	at io.netty.util.concurrent.DefaultPromise.notifyListeners(DefaultPromise.java:570) [netty-common-4.0.10.Final.jar:na]
+> Building > :moco-core:test > 8 tests completed, 1 failed    \	at io.netty.util.concurrent.DefaultPromise.setSuccess(DefaultPromise.java:380) [netty-common-4.0.10.Final.jar:na]
+> Building > :moco-core:test > 8 tests completed, 1 failed    \	at io.netty.util.concurrent.SingleThreadEventExecutor$2.run(SingleThreadEventExecutor.java:139) [netty-common-4.0.10.Final.jar:na]
+> Building > :moco-core:test > 8 tests completed, 1 failed    \	at java.lang.Thread.run(Thread.java:679) [na:1.6.0_27]
+> Building > :moco-core:test > 8 tests completed, 1 failed
+No output has been received in the last 10 minutes, this potentially indicates a stalled build or something wrong with the build itself.
+The build has been terminated

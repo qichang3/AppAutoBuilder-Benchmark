@@ -1,0 +1,5 @@
+* What went wrong:
+Some problems were found with the configuration of task ':wail-app:packageRelease'.
+> No value has been specified for property 'signingConfig.keyAlias'.
+> No value has been specified for property 'signingConfig.storePassword'.
+> No value has been specified for property 'signingConfig.keyPassword'.

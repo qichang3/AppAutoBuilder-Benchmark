@@ -1,0 +1,6 @@
+:sandbox:check UP-TO-DATE
+BUILD SUCCESSFUL
+Total time: 1 mins 2.143 secs
+travis_time:end:07fbba3c:start=1433669758892944261,finish=1433669821501044125,duration=62608099864
+The command "./gradlew check --stacktrace -Dfile.encoding=UTF-8" exited with 0.
+Done. Your build exited with 0.

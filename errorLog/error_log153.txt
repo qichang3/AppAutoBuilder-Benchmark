@@ -1,0 +1,3 @@
+* What went wrong:
+Execution failed for task ':grpc-interop-testing:test'.
+> There were failing tests. See the report at: file:///Users/travis/build/grpc/grpc-java/interop-testing/build/reports/tests/index.html

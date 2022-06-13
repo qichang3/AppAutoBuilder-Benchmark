@@ -1,0 +1,3 @@
+* What went wrong:
+Execution failed for task ':quasar-galaxy:classes'.
+> java.lang.RuntimeException: java.io.IOException: Class not found

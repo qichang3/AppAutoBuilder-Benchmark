@@ -1,0 +1,3 @@
+* What went wrong:
+Execution failed for task ':quasar-kotlin:compileTestKotlin'.
+> Compilation error. See log for more details

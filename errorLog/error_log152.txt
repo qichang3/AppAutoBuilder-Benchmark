@@ -1,0 +1,4 @@
+* What went wrong:
+An exception occurred applying plugin request [id: 'nebula.netflixoss', version: '3.2.3']
+> Failed to apply plugin [class 'nebula.plugin.bintray.NebulaBintrayPublishingPlugin']
+   > Walk failure.

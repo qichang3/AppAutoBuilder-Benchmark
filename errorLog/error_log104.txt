@@ -1,0 +1,3 @@
+* What went wrong:
+A problem occurred evaluating root project 'spock'.
+> Could not find property 'GITHUB_TOKEN' on task ':publishJavadoc'.

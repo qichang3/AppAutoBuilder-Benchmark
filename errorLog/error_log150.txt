@@ -1,0 +1,8 @@
+ delete mode 100644 javadoc/resources/titlebar.gif
+ delete mode 100644 javadoc/resources/titlebar_end.gif
+ create mode 100644 javadoc/script.js
+Finished updating gh-pages
+Post-build process finished in 2 minute(s) and 59 seconds
+travis_time:end:0655dee0:start=1453365258778797728,finish=1453365437671298784,duration=178892501056
+travis_fold:end:after_success.2
+Done. Your build exited with 0.

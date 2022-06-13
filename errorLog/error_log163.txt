@@ -1,0 +1,5 @@
+> Building* What went wrong:
+> BuildingExecution failed for task ':test'.
+> Building> 
+> BuildingThere were failing tests. See the report at: file:///home/travis/build/nutzam/nutz/target/reports/tests/index.html
+> Building

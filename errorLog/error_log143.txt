@@ -1,0 +1,3 @@
+* What went wrong:
+Execution failed for task ':micro-core:test'.
+> There were failing tests. See the report at: file:///home/travis/build/aol/micro-server/micro-core/build/reports/tests/index.html

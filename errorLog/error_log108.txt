@@ -1,0 +1,8 @@
+travis_fold:start:after_success.2
+travis_time:start:0ae47cbe
+$ ./travis/post_build.sh
+Current repo: puniverse/quasar Commit: 7882bd52e7f23a9bb36dfa905991f0d011dab2d2
+Post-build process finished in 0 minute(s) and 0 seconds
+travis_time:end:0ae47cbe:start=1426787666778720123,finish=1426787666784924592,duration=6204469
+travis_fold:end:after_success.2
+Done. Your build exited with 0.

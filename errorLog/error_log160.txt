@@ -1,0 +1,3 @@
+* What went wrong:
+Execution failed for task ':quasar-actors:test'.
+> There were failing tests. See the report at: file:///home/travis/build/puniverse/quasar/quasar-actors/build/reports/tests/index.html

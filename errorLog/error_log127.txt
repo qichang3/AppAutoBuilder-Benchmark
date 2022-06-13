@@ -1,0 +1,3 @@
+* What went wrong:
+Execution failed for task ':quasar-actors:javadoc'.
+> Javadoc generation failed. Generated Javadoc options file (useful for troubleshooting): '/home/travis/build/puniverse/quasar/quasar-actors/build/tmp/javadoc/javadoc.options'

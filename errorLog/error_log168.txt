@@ -1,0 +1,9 @@
+> Building > :moco-runner:check
+> Building > :moco-runner:check
+> BuildingBUILD SUCCESSFUL
+> Building
+> Building
+> BuildingTotal time: 53.894 secs
+> Building
+The command "gradle check -i" exited with 0.
+Done. Your build exited with 0.

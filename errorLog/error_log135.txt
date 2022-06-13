@@ -1,0 +1,3 @@
+* What went wrong:
+Execution failed for task ':cdm-test:test'.
+> There were failing tests. See the report at: file:///home/travis/build/Unidata/thredds/cdm-test/build/reports/tests/index.html

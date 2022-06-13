@@ -1,0 +1,8 @@
+\	at sun.security.ssl.X509TrustManagerImpl.checkIdentity(X509TrustManagerImpl.java:347)
+\	at sun.security.ssl.X509TrustManagerImpl.checkTrusted(X509TrustManagerImpl.java:203)
+\	at sun.security.ssl.X509TrustManagerImpl.checkServerTrusted(X509TrustManagerImpl.java:126)
+\	at sun.security.ssl.ClientHandshaker.serverCertificate(ClientHandshaker.java:1428)
+\	... 19 more
+travis_time:end:1a318dde:start=1428731074833625344,finish=1428731076357291531,duration=1523666187
+The command "./gradlew setupCIWorkspace -S" failed and exited with 1 during .
+Your build has been stopped.

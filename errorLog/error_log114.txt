@@ -1,0 +1,8 @@
+* What went wrong:
+Execution failed for task ':sdk:buildSdk'.
+> The following error occurred while executing this line:
+  /home/travis/build/jMonkeyEngine/jmonkeyengine/sdk/build.xml:7: The following error occurred while executing this line:
+  /home/travis/build/jMonkeyEngine/jmonkeyengine/sdk/nbproject/build-impl.xml:41: Cannot find NetBeans build harness. 
+  Check that nbplatform.default.netbeans.dest.dir and nbplatform.default.harness.dir are defined. 
+  On a developer machine these are normally defined in ${user.properties.file}=${netbeans.user}/build.properties 
+  but for automated builds you should pass these properties to Ant explicitly.

@@ -1,0 +1,7 @@
+* What went wrong:
+A problem occurred configuring root project 'alfio'.
+> Could not resolve all dependencies for configuration ':compile'.
+   > Could not resolve ch.digitalfondue.npjt-extra:npjt-extra:1.1.0.
+     Required by:
+         alfio:alfio:1.5-SNAPSHOT
+      > Could not GET 'https://jcenter.bintray.com/ch/digitalfondue/npjt-extra/npjt-extra/1.1.0/npjt-extra-1.1.0.pom'. Received status code 401 from server: Unauthorized

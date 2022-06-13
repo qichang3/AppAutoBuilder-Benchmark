@@ -1,0 +1,8 @@
+Download https://repo1.maven.org/maven2/commons-cli/commons-cli/1.2/commons-cli-1.2.jar
+Download https://repo1.maven.org/maven2/com/google/guava/guava/18.0/guava-18.0.jar
+Download https://repo1.maven.org/maven2/org/abego/treelayout/org.abego.treelayout.core/1.0.1/org.abego.treelayout.core-1.0.1.jar
+Download https://repo1.maven.org/maven2/org/antlr/antlr4-annotations/4.3/antlr4-annotations-4.3.jar
+/home/travis/build.sh: line 41:  1872 Killed                  gradle build
+travis_time:end:27a1fc0a:start=1426538195158166472,finish=1426538299195516839,duration=104037350367
+The command "gradle build" exited with 137.
+Done. Your build exited with 1.

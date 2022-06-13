@@ -1,0 +1,14 @@
+* What went wrong:
+Could not resolve all dependencies for configuration ':micro-boot:compile'.
+> Could not find com.aol.microservices:microserver-core:0.57.
+  Searched in the following locations:
+      https://repo1.maven.org/maven2/com/aol/microservices/microserver-core/0.57/microserver-core-0.57.pom
+      https://repo1.maven.org/maven2/com/aol/microservices/microserver-core/0.57/microserver-core-0.57.jar
+      http://repo.maven.apache.org/maven2/com/aol/microservices/microserver-core/0.57/microserver-core-0.57.pom
+      http://repo.maven.apache.org/maven2/com/aol/microservices/microserver-core/0.57/microserver-core-0.57.jar
+      https://github.com/serkan-ozal/maven-repository/raw/master/com/aol/microservices/microserver-core/0.57/microserver-core-0.57.pom
+      https://github.com/serkan-ozal/maven-repository/raw/master/com/aol/microservices/microserver-core/0.57/microserver-core-0.57.jar
+      https://jcenter.bintray.com/com/aol/microservices/microserver-core/0.57/microserver-core-0.57.pom
+      https://jcenter.bintray.com/com/aol/microservices/microserver-core/0.57/microserver-core-0.57.jar
+  Required by:
+      micro-server:micro-boot:0.56

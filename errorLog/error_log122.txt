@@ -1,0 +1,3 @@
+* What went wrong:
+Execution failed for task ':dap4:d4tests:test'.
+> There were failing tests. See the report at:  0

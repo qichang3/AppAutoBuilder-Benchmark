@@ -1,0 +1,3 @@
+* What went wrong:
+A problem occurred evaluating root project 'LogisticsPipes'.
+> Could not find property 'curseForgeApiKey' on root project 'LogisticsPipes'.

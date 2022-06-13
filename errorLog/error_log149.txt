@@ -1,0 +1,8 @@
+* What went wrong:
+Could not compile build file '/home/travis/build/puniverse/quasar/build.gradle'.
+> startup failed:
+  build file '/home/travis/build/puniverse/quasar/build.gradle': 445: unexpected token: << @ line 445, column 1.
+     <<<<<<< HEAD
+     ^
+  
+  1 error

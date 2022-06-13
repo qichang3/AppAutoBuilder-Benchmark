@@ -1,0 +1,3 @@
+* What went wrong:
+Execution failed for task ':javadoc'.
+> Javadoc generation failed. Generated Javadoc options file (useful for troubleshooting): '/home/travis/build/SpongePowered/Sponge/build/tmp/javadoc/javadoc.options'

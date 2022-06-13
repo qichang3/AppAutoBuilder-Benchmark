@@ -1,0 +1,3 @@
+* What went wrong:
+Execution failed for task ':bintrayUpload'.
+> Could not upload to 'https://api.bintray.com/content/szczepiq/maven/mockito/2.0.63-beta/org/mockito/mockito-core/2.0.63-beta/mockito-core-2.0.63-beta.jar': HTTP/1.1 409 Conflict [message:Unable to upload files: An artifact with the path 'org/mockito/mockito-core/2.0.63-beta/mockito-core-2.0.63-beta.jar' already exists]

@@ -1,0 +1,3 @@
+* What went wrong:
+Execution failed for task ':grpc-benchmarks:checkstyleMain'.
+> Checkstyle rule violations were found. See the report at: file:///home/travis/build/grpc/grpc-java/benchmarks/build/reports/checkstyle/main.xml

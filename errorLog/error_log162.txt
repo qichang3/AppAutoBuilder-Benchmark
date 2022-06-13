@@ -1,0 +1,5 @@
+> Building* What went wrong:
+> BuildingExecution failed for task ':core:test'.
+> Building> 
+> BuildingThere were failing tests. See the report at: file:///home/travis/builds/dtolabs/rundeck/core/build/reports/tests/index.html
+> Building

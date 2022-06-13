@@ -1,0 +1,3 @@
+* What went wrong:
+Execution failed for task ':jodd-core:compileJava'.
+> Signature errors found. Verify them and put @IgnoreJRERequirement on them.

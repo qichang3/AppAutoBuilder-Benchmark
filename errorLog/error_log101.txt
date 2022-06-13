@@ -1,0 +1,5 @@
+* What went wrong:
+Could not resolve all dependencies for configuration ':runtime'.
+> Could not download artifact 'org.eclipse.jgit.jar (org.eclipse.jgit:org.eclipse.jgit:3.4.1.201406201815-r)'
+   > Failed to download resource 'https://repo1.maven.org/maven2/org/eclipse/jgit/org.eclipse.jgit/3.4.1.201406201815-r/org.eclipse.jgit-3.4.1.201406201815-r.jar'.
+      > Connection reset

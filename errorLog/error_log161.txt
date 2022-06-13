@@ -1,0 +1,7 @@
+* What went wrong:
+A problem occurred configuring root project 'quasar'.
+> Could not resolve all dependencies for configuration ':classpath'.
+   > Could not download shadow.jar (com.github.jengelman.gradle.plugins:shadow:1.2.3)
+      > Could not get resource 'https://jcenter.bintray.com/com/github/jengelman/gradle/plugins/shadow/1.2.3/shadow-1.2.3.jar'.
+         > Could not GET 'https://jcenter.bintray.com/com/github/jengelman/gradle/plugins/shadow/1.2.3/shadow-1.2.3.jar'.
+            > Connect to akamai.bintray.com:443 [akamai.bintray.com/104.106.70.187] failed: Connection timed out

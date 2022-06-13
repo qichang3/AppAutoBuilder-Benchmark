@@ -1,0 +1,5 @@
+* What went wrong:
+A problem occurred evaluating root project 'LogisticsPipes'.
+> Could not find method component() for arguments [build_6aaq055j0jteigiamanvvesh25$_run_closure7_closure21_closure22@61d93e6a] on root project 'LogisticsPipes'.
+> Could not find method component() for arguments [build_6aaq055j0jteigiamanvvesh25$_run_closure7_closure21_closure22@7f88cb3b] on root project 'LogisticsPipes'.
+> Could not find method component() for arguments [build_6aaq055j0jteigiamanvvesh25$_run_closure7_closure21_closure22@ea0732c] on root project 'LogisticsPipes'.
