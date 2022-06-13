@@ -1,0 +1,8 @@
+* What went wrong:
+Could not resolve all dependencies for configuration ':includeMod'.
+> Could not resolve :worldedit-forge:mc1.7.10-6.0-SNAPSHOT-dist.
+  Required by:
+      com.forgeessentials:ForgeEssentialsMain:1.4.0-beta5
+   > Could not GET 'https://libraries.minecraft.net//worldedit-forge/mc1.7.10-6.0-SNAPSHOT-dist/worldedit-forge-mc1.7.10-6.0-SNAPSHOT-dist.pom'. Received status code 403 from server: Forbidden
+   > Could not GET 'http://198.23.242.205/worldedit-forge-mc1.7.10-6.0-SNAPSHOT-dist.xml'.
+      > No route to host

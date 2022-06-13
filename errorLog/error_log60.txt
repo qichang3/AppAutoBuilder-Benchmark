@@ -1,0 +1,4 @@
+* What went wrong:
+Execution failed for task ':publishMockitoAllPublicationToMavenLocal'.
+> Failed to publish publication 'mockitoAll' to repository 'MavenLocal'
+   > Invalid publication 'mockitoAll': POM file is invalid. Check any modifications you have made to the POM file.

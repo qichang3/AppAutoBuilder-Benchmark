@@ -1,0 +1,8 @@
+HTTP/1.1 422 Unprocessable Entity
+[Server: cloudflare-nginx, Date: Mon, 04 Aug 2014 11:26:41 GMT, Content-Type: application/json; charset=utf-8, Transfer-Encoding: chunked, Connection: keep-alive, Set-Cookie: __cfduid=d7fc6f63fcfd512e71847eb13a43a75951407151599838; expires=Mon, 23-Dec-2019 23:50:00 GMT; path=/; domain=.coveralls.io; HttpOnly, Status: 422 Unprocessable Entity, X-UA-Compatible: IE=Edge,chrome=1, Cache-Control: no-cache, Set-Cookie: request_method=POST; path=/, X-Request-Id: 057451fd449c5505f2e329d3e875ad1b, X-Runtime: 0.988586, X-Rack-Cache: invalidate, pass, X-Powered-By: Phusion Passenger 4.0.41, Set-Cookie: LSW_WEB="LSW_WEB2"; path=/, CF-RAY: 154a66b9ca570874-IAD]
+[error:true, message:Couldn't find a repository matching this job.]
+BUILD SUCCESSFUL
+Total time: 16.751 secs
+travis_time:finish:start=1407151584866088380,finish=1407151609973052393,duration=25106964013
+travis_fold:end:after_success
+Done. Your build exited with 0.

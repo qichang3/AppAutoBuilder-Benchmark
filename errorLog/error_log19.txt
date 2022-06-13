@@ -1,0 +1,6 @@
+* What went wrong:
+A problem occurred configuring project ':sample'.
+> Could not resolve all dependencies for configuration ':sample:_debugCompile'.
+   > Could not find hotchemi.android.rate:android-rate:0.0.3.
+     Required by:
+         Android-Rate:sample:unspecified

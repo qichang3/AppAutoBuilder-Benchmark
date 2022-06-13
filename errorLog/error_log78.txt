@@ -1,0 +1,3 @@
+* What went wrong:
+A problem occurred evaluating project ':jphp-example-project'.
+> Plugin with id 'php' not found.

@@ -1,0 +1,6 @@
+:moco-runner:check (Thread[Daemon,5,main]) completed. Took 0.002 secs.
+BUILD SUCCESSFUL
+Total time: 57.603 secs
+Stopped 0 compiler daemon(s).
+The command "./gradlew check -i" exited with 0.
+Done. Your build exited with 0.

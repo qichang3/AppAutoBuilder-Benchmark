@@ -1,0 +1,5 @@
+* What went wrong:
+Execution failed for task ':sagan-indexer:cf-push'.
+> Could not read JSON: Can not deserialize instance of java.lang.String out of START_OBJECT token
+   at [Source: org.apache.http.conn.EofSensorInputStream@76fb252f; line: 10, column: 83]; nested exception is org.codehaus.jackson.map.JsonMappingException: Can not deserialize instance of java.lang.String out of START_OBJECT token
+   at [Source: org.apache.http.conn.EofSensorInputStream@76fb252f; line: 10, column: 83]

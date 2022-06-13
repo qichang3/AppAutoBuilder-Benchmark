@@ -1,0 +1,6 @@
+INFO  16:50:31.269 [graph-executor-2] o.g.l.e.t.LenskitEvalJob tested 100 of 189 users (52.91%), ETA 0:00:05.042
+INFO  16:50:31.292 [graph-executor-2] o.g.l.e.t.LenskitEvalJob Tested Normalizing in 0:00:05.689
+INFO  16:50:31.292 [graph-executor-2] o.g.l.e.m.p.RMSEPredictMetric RMSE: 0.9945754902997398
+INFO  16:50:31.292 [graph-executor-2] o.g.l.e.m.p.MAEPredictMetric MAE: 0.7835392230345588
+No output has been received in the last 10 minutes, this potentially indicates a stalled build or something wrong with the build itself.
+The build has been terminated

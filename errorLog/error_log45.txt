@@ -1,0 +1,7 @@
+* What went wrong:
+A problem occurred configuring root project 'u2020'.
+> Could not resolve all dependencies for configuration ':_debugCompile'.
+   > Could not find any version that matches com.android.support:support-v4:19.0.+.
+     Required by:
+         :u2020:unspecified
+         :u2020:unspecified > com.etsy.android.grid:library:1.0.3

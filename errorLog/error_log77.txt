@@ -1,0 +1,7 @@
+Ran lint on variant release: 2 issues found
+Ran lint on variant debug: 2 issues found
+Wrote HTML report to file:/home/travis/build/segmentio/analytics-android/core/build/outputs/lint-results.html
+Wrote XML report to /home/travis/build/segmentio/analytics-android/core/build/outputs/lint-results.xml
+:core:testDebug
+No output has been received in the last 10 minutes, this potentially indicates a stalled build or something wrong with the build itself.
+The build has been terminated

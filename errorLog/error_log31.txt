@@ -1,0 +1,6 @@
+    THREAD Thread[ForkJoinPool-test-worker-5,5,main] TOTAL RECORDED: 180 AVAILABLE: 180
+    THREAD Thread[ForkJoinPool-default-fiber-pool-worker-25,5,main] TOTAL RECORDED: 729 AVAILABLE: 729
+    THREAD Thread[ForkJoinPool-default-fiber-pool-worker-39,5,main] TOTAL RECORDED: 1128 AVAILABLE: 1128
+    DUMPED FLIGHT LOG TO quasar.log.gz
+No output has been received in the last 10 minutes, this potentially indicates a stalled build or something wrong with the build itself.
+The build has been terminated

@@ -1,0 +1,3 @@
+* What went wrong:
+Execution failed for task ':goro:connectedAndroidTest'.
+> There were failing tests. See the report at: file:///home/travis/build/stanfy/enroscar/goro/core/build/reports/androidTests/connected/index.html

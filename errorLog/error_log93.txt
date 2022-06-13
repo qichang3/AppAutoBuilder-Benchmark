@@ -1,0 +1,8 @@
+* What went wrong:
+A problem occurred configuring root project 'mockito'.
+> Could not resolve all dependencies for configuration ':classpath'.
+   > Could not find any version that matches com.android.tools.build:gradle:0.11.+.
+     Searched in the following locations:
+         https://jcenter.bintray.com/com/android/tools/build/gradle/maven-metadata.xml
+     Required by:
+         :mockito:unspecified > org.kt3k.gradle.plugin:coveralls-gradle-plugin:0.6.1

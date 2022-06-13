@@ -1,0 +1,5 @@
+* What went wrong:
+Execution failed for task ':Rebuild:packageStagingDebug'.
+> Duplicate files copied in APK META-INF/NOTICE.txt
+  \	File 1: /home/travis/.gradle/caches/modules-2/files-2.1/org.apache.commons/commons-lang3/3.1/905075e6c80f206bbe6cf1e809d2caa69f420c76/commons-lang3-3.1.jar
+  \	File 2: /home/travis/.gradle/caches/modules-2/files-2.1/org.apache.commons/commons-lang3/3.1/905075e6c80f206bbe6cf1e809d2caa69f420c76/commons-lang3-3.1.jar

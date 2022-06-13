@@ -1,0 +1,6 @@
+* What went wrong:
+Could not resolve all dependencies for configuration ':compile'.
+> Could not resolve pentaho-reporting-engine:pentaho-reporting-engine-classic-core:3.9.1.1.
+  Required by:
+      org.mifosplatform:mifosng-provider:unspecified
+   > Could not GET 'http://repository.pentaho.org/artifactory/pentaho/pentaho-reporting-engine/pentaho-reporting-engine-classic-core/3.9.1.1/pentaho-reporting-engine-classic-core-3.9.1.1.pom'. Received status code 502 from server: Proxy Error

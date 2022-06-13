@@ -1,0 +1,3 @@
+* What went wrong:
+Execution failed for task ':rundeckapp:grailsWar'.
+> Process 'command '/home/travis/build/rundeck/rundeck/local/grails-2.2.4/bin/grails'' finished with non-zero exit value 1

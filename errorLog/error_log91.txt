@@ -1,0 +1,4 @@
+* What went wrong:
+Could not resolve all dependencies for configuration ':hystrix-contrib:hystrix-javanica:testCompile'.
+> Could not download artifact 'org.springframework:spring-core:4.0.0.RELEASE:spring-core.jar'
+   > Connection reset

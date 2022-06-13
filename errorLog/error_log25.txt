@@ -1,0 +1,3 @@
+* What went wrong:
+Execution failed for task ':syncany-cli:test'.
+> Process 'Gradle Worker 1' finished with non-zero exit value 1

@@ -1,0 +1,7 @@
+BUILD SUCCESSFUL
+Total time: 1 mins 2.374 secs
+Stopped 0 compiler daemon(s).
+Received result DaemonCommandResult[type=Success, value=null] from daemon DaemonInfo{pid=1918, address=[862ca7af-a0a5-41cd-99cd-df59a99df874 port:52323, addresses:[/0:0:0:0:0:0:0:1%1, /127.0.0.1]], idle=true, context=DefaultDaemonContext[uid=c520e595-07d2-4667-8df5-27fb36724354,javaHome=/usr/lib/jvm/java-7-oracle,daemonRegistryDir=/home/travis/.gradle/daemon,pid=1918,idleTimeout=10800000,daemonOpts=-XX:MaxPermSize=512m,-XX:+CMSClassUnloadingEnabled,-XX:+CMSPermGenSweepingEnabled,-XX:+HeapDumpOnOutOfMemoryError,-Xmx1024m,-Dfile.encoding=utf-8,-Duser.country=US,-Duser.language=en,-Duser.variant]}.
+travis_time:end:04a57c73:start=1416054165974824261,finish=1416054228805972432,duration=62831148171
+The command "./gradlew check -i" exited with 0.
+Done. Your build exited with 0.

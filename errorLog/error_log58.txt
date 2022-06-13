@@ -1,0 +1,3 @@
+* What went wrong:
+Execution failed for task ':checkstyleApi'.
+> Checkstyle rule violations were found. See the report at: file:///home/travis/build/BuildCraft/BuildCraft/build/reports/checkstyle/api.xml

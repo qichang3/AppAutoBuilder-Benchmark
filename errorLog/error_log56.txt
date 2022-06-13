@@ -1,0 +1,3 @@
+* What went wrong:
+A problem occurred evaluating root project 'quasar'.
+> No such property: sonatypeUsername for class: org.gradle.api.internal.project.DefaultProject_Decorated

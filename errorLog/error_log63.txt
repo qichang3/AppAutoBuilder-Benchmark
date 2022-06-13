@@ -1,0 +1,3 @@
+* What went wrong:
+Execution failed for task ':app:patchAndroidJar'.
+> Retrolambda: null/jre/lib/rt.jar does not exist, make sure that the environment variable JAVA_HOME or JAVA8_HOME, or the gradle property retrolambda.jdk points to a valid version of java8.

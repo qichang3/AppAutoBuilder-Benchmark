@@ -1,0 +1,3 @@
+* What went wrong:
+Execution failed for task ':samples-build-wrapper:assemble'.
+> Process 'command './gradlew'' finished with non-zero exit value 1

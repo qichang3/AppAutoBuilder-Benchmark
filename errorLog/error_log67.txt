@@ -1,0 +1,3 @@
+* What went wrong:
+A problem occurred evaluating root project 'SpongeAPI'.
+> Could not find method publishing() for arguments [build_3elhjpflbduvb1cl4s6pvccj97$_run_closure9@793b23eb] on root project 'SpongeAPI'.

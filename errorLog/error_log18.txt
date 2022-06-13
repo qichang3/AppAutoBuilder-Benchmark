@@ -1,0 +1,3 @@
+* What went wrong:
+Execution failed for task ':library:testDebug'.
+> There were failing tests. See the report at: file:///home/travis/build/passy/Android-DirectoryChooser/library/build/test-report/debug/index.html

@@ -1,0 +1,5 @@
+* What went wrong:
+Could not resolve all dependencies for configuration ':quasar-galaxy:compile'.
+> A conflict was found between the following modules:
+   - com.lmax:disruptor:3.2.1
+   - com.lmax:disruptor:3.2.0

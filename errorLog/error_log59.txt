@@ -1,0 +1,5 @@
+Picked up _JAVA_OPTIONS: -XX:-UseSplitVerifier
+...Cloning into 'repository'...
+Current branch master is up to date.
+No output has been received in the last 10 minutes, this potentially indicates a stalled build or something wrong with the build itself.
+The build has been terminated

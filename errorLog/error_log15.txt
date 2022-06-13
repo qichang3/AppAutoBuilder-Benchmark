@@ -1,0 +1,3 @@
+* What went wrong:
+Execution failed for task ':signArchives'.
+> Cannot perform signing task ':signArchives' because it has no configured signatory

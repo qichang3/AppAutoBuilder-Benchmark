@@ -1,0 +1,4 @@
+* What went wrong:
+A problem occurred evaluating root project 'Sponge'.
+> No signature of method: com.github.jengelman.gradle.plugins.shadow.internal.DefaultDependencyFilter.dependenct() is applicable for argument types: (java.lang.String) values: [com.google.inject:guice]
+  Possible solutions: dependency(groovy.lang.Closure), dependency(java.lang.Object), dependency(org.gradle.api.artifacts.Dependency)

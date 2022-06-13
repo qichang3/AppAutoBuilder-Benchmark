@@ -1,0 +1,12 @@
+* What went wrong:
+Could not resolve all dependencies for configuration ':grails-web-url-mappings:compile'.
+> Could not find org.grails:grails-datastore-core:3.1.3.BUILD-SNAPSHOT.
+  Searched in the following locations:
+      https://grails.artifactoryonline.com/grails/core/org/grails/grails-datastore-core/3.1.3.BUILD-SNAPSHOT/maven-metadata.xml
+      https://grails.artifactoryonline.com/grails/core/org/grails/grails-datastore-core/3.1.3.BUILD-SNAPSHOT/grails-datastore-core-3.1.3.BUILD-SNAPSHOT.pom
+      https://grails.artifactoryonline.com/grails/core/org/grails/grails-datastore-core/3.1.3.BUILD-SNAPSHOT/grails-datastore-core-3.1.3.BUILD-SNAPSHOT.jar
+      file:/home/travis/.m2/repository/org/grails/grails-datastore-core/3.1.3.BUILD-SNAPSHOT/maven-metadata.xml
+      file:/home/travis/.m2/repository/org/grails/grails-datastore-core/3.1.3.BUILD-SNAPSHOT/grails-datastore-core-3.1.3.BUILD-SNAPSHOT.pom
+      file:/home/travis/.m2/repository/org/grails/grails-datastore-core/3.1.3.BUILD-SNAPSHOT/grails-datastore-core-3.1.3.BUILD-SNAPSHOT.jar
+  Required by:
+      org.grails:grails-web-url-mappings:2.4.4.BUILD-SNAPSHOT

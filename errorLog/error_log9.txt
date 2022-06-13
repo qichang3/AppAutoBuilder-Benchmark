@@ -1,0 +1,9 @@
+> Building 100%BUILD SUCCESSFUL
+> Building 100%
+> Building 100%
+> Building 100%Total time: 1 mins 0.958 secs
+> Building 100%Stopped 0 compiler daemon(s).
+> Building 100%
+> Building 100%
+The command "./gradlew check -i" exited with 0.
+Done. Your build exited with 0.

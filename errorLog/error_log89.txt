@@ -1,0 +1,5 @@
+* What went wrong:
+Could not resolve all dependencies for configuration ':quasar-galaxy:compile'.
+> A conflict was found between the following modules:
+   - org.slf4j:slf4j-api:1.7.10
+   - org.slf4j:slf4j-api:1.7.7

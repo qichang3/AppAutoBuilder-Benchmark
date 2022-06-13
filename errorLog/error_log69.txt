@@ -1,0 +1,8 @@
+* What went wrong:
+Execution failed for task ':baseServices:classycleMain'.
+> Could not resolve all dependencies for configuration ':baseServices:classycle'.
+   > Could not resolve classycle:classycle:1.4.
+     Required by:
+         org.gradle:baseServices:2.3-20141106011312+0000
+      > Could not GET 'https://repo.gradle.org/gradle/libs/classycle/classycle/1.4/classycle-1.4.pom'.
+         > The target server failed to respond

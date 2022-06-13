@@ -1,0 +1,3 @@
+* What went wrong:
+Execution failed for task ':sample-pivot-groovy:integrationTest'.
+> There were failing tests. See the results at: file:///home/travis/build/griffon/griffon/samples/sample-pivot-groovy/build/test-results/

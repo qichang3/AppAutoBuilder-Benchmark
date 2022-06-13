@@ -1,0 +1,6 @@
+* What went wrong:
+A problem occurred configuring root project 'cathode'.
+> Could not resolve all dependencies for configuration ':classpath'.
+   > Could not download artifact 'net.sf.proguard:proguard-base:4.11:proguard-base.jar'
+      > Could not GET 'http://repo1.maven.org/maven2/net/sf/proguard/proguard-base/4.11/proguard-base-4.11.jar'.
+         > Connection reset

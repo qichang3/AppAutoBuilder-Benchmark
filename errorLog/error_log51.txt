@@ -1,0 +1,3 @@
+* What went wrong:
+Execution failed for task ':Bolts:signArchives'.
+> Cannot perform signing task ':Bolts:signArchives' because it has no configured signatory

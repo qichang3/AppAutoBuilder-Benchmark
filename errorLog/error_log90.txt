@@ -1,0 +1,3 @@
+* What went wrong:
+Execution failed for task ':checkstyleMain'.
+> Unable to create a Checker: cannot initialize module SuppressionFilter - Cannot set property 'file' in module SuppressionFilter to '/home/travis/build/SpongePowered/Sponge/checkstyle-suppressions.xml': unable to find /home/travis/build/SpongePowered/Sponge/checkstyle-suppressions.xml

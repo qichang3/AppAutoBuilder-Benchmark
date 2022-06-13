@@ -1,0 +1,8 @@
+\	at org.gradle.wrapper.Install.unzip(Install.java:157)
+\	at org.gradle.wrapper.Install.access$400(Install.java:26)
+\	at org.gradle.wrapper.Install$1.call(Install.java:67)
+\	at org.gradle.wrapper.Install$1.call(Install.java:44)
+\	at org.gradle.wrapper.ExclusiveFileAccessManager.access(ExclusiveFileAccessManager.java:65)
+\	... 3 more
+The command "./gradlew assemble" failed and exited with 1 during install.
+Your build has been stopped.

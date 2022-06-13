@@ -1,0 +1,5 @@
+> Building* What went wrong:
+> BuildingCould not evaluate onlyIf predicate for task ':signArchives'.
+> Building> 
+> BuildingUnable to retrieve secret key from key ring file '/path/to/secring.gpg' as it does not exist
+> Building

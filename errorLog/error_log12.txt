@@ -1,0 +1,6 @@
+* What went wrong:
+A problem occurred configuring root project 'morphia'.
+> Could not resolve all dependencies for configuration ':classpath'.
+   > Could not find com.antwerkz.github:github-release-gradle-plugin:1.1.0-SNAPSHOT.
+     Required by:
+         :morphia:unspecified

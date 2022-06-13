@@ -1,0 +1,5 @@
+* What went wrong:
+A problem occurred evaluating root project 'RxNetty'.
+> Could not find property 'rxJavaVersion' on org.gradle.api.internal.artifacts.dsl.dependencies.DefaultDependencyHandler_Decorated@2380c913.
+> Could not find property 'rxJavaVersion' on org.gradle.api.internal.artifacts.dsl.dependencies.DefaultDependencyHandler_Decorated@51e77418.
+> Could not find property 'rxJavaVersion' on org.gradle.api.internal.artifacts.dsl.dependencies.DefaultDependencyHandler_Decorated@2207bdc8.

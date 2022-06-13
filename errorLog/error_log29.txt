@@ -1,0 +1,5 @@
+* What went wrong:
+Could not resolve all dependencies for configuration ':apiCompile'.
+> Could not download artifact 'org.scala-lang:scala-library:2.10.2:scala-library.jar'
+   > Could not GET 'http://repo1.maven.org/maven2/org/scala-lang/scala-library/2.10.2/scala-library-2.10.2.jar'.
+      > The target server failed to respond

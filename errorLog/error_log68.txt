@@ -1,0 +1,6 @@
+BUILD SUCCESSFUL
+Total time: 1 mins 0.193 secs
+Stopped 0 compiler daemon(s).
+travis_time:end:0014007b:start=1414589440629996225,finish=1414589501263273896,duration=60633277671
+The command "./gradlew check -i" exited with 0.
+Done. Your build exited with 0.

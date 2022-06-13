@@ -1,0 +1,8 @@
+* What went wrong:
+Could not compile build file '/home/travis/build/grails/grails-core/grails-test-suite-web/build.gradle'.
+> startup failed:
+  build file '/home/travis/build/grails/grails-core/grails-test-suite-web/build.gradle': 116: unexpected token: import @ line 116, column 1.
+     import org.gradle.*
+     ^
+  
+  1 error

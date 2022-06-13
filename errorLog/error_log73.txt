@@ -1,0 +1,6 @@
+:lenskit-test:ciBuild
+BUILD SUCCESSFUL
+Total time: 7 mins 10.8 secs
+travis_time:end:2d9244d5:start=1416324689999287424,finish=1416325121491477780,duration=431492190356
+The command "./gradlew ciBuild" exited with 0.
+Done. Your build exited with 0.

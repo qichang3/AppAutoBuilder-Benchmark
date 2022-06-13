@@ -1,0 +1,5 @@
+* What went wrong:
+Could not resolve all dependencies for configuration ':quasar-galaxy:testCompile'.
+> A conflict was found between the following modules:
+   - junit:junit:4.12
+   - junit:junit:4.11
